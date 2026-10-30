@@ -1,0 +1,10 @@
+{
+  "app_name": "Background Remover",
+  "fulldomain": "bg-remover.lths.ai",
+  "template": "react-express",
+  "template_version": 2,
+  "app_id": "bgremob794",
+  "subdomain": "bg-remover",
+  "app_dir": "C:\\Users\\KrishnaKishoreSabbi\\.vibehost\\apps\\bg-remover",
+  "deploy_version": 128
+}
